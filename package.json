@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/landmammal/weatehr-now/issues"
   },
-  "homepage": "https://github.com/landmammal/weatehr-now#readme"
+  "homepage": "https://github.com/landmammal/weatehr-now#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
