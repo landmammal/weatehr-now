@@ -1,0 +1,19 @@
+{
+  "name": "weather-now",
+  "version": "1.0.0",
+  "description": "Web application that gives the weather of any city.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landmammal/weatehr-now.git"
+  },
+  "author": "iCreate <idevelopedreams@gmail.com> (live2create.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landmammal/weatehr-now/issues"
+  },
+  "homepage": "https://github.com/landmammal/weatehr-now#readme"
+}
